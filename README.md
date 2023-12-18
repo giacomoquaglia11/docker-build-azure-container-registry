@@ -18,7 +18,7 @@ Expectations:
 - Azure Container Registry:
   - tier: "Basic"
   - will be created by it's own terraform
-- The work, to be considered done, should be pushed in the git repository tutoring_giacomo-quaglia_terraform-001
+- The work, to be considered done, should be pushed in the git repository "tutoring_giacomo-quaglia_terraform-001"
   - branch name: "tickets/<current_ticket_id>"
   - folder "docker-registry" with the terraform code + state for the Azure Container Registry creation
   - folder "vms" with the terraform code for the VMs creation
